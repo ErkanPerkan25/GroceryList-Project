@@ -1,13 +1,17 @@
 #ifdef _LIST_HPP_
 #define _LIST_HPP_
 
+#include "Item.hpp"
 #include <list>
 
 class List{
 private:
-   // list of grocery items (class for grocery items)     
+    // List which stores Item objects (Grocery items)
+    //std::list<Item> _list;
 public:
-
+    // Default constructor
+    
+    
     // Accessors
     // Modifiers
 };
