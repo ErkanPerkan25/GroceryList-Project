@@ -14,6 +14,6 @@ public:
 
     //Modifiers
     std::string &getName() {return _name;}
-}
+};
 
 #endif // !_ITEM_HPP_
